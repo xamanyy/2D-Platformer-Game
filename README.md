@@ -7,10 +7,13 @@ And my role in this project as Animator and Artist.
 Tools That I have Used is:
 
 1.) Adobe Illustrator in order to design the avatar of game.
+
 2.) Adobe Photoshop for wrapping the texture to the avatar.
+
 3.) Unity Package of 2D Animation in order to animate (animation include: idle, walk or run and jump) 
 
 This is Our Minor Project for our 4 Semester in Chandigarh University and We got A grade in this Project.
 
 ##Little Video Link of Our Project:
+
 https://drive.google.com/file/d/1NhcAv1y2zscfi7Z8wse7eXGBHUhzAGwv/view?usp=sharing
