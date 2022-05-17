@@ -14,5 +14,12 @@ This is Our Minor Project for our 4 Semester in Chandigarh University and We got
 
 ## -iphone Scrennshots
 
+![ss1](https://user-images.githubusercontent.com/25785435/168883360-0d30641d-7267-4798-8b7b-398317b608d8.png)
+![ss4](https://user-images.githubusercontent.com/25785435/168883392-414214ca-5ae2-42ee-822c-78df9a0d8c22.png)
+![ss5](https://user-images.githubusercontent.com/25785435/168883399-24cc43ff-54f2-452f-99d0-a39e60269d4b.png)
+![ss3](https://user-images.githubusercontent.com/25785435/168883417-f8e23fc3-f8fd-457f-970a-bd82a6384df9.png)
+![ss2](https://user-images.githubusercontent.com/25785435/168883432-66a6f8e0-1336-4e9b-9ec0-dea1aca22ccf.png)
+
+
 ##Little Video Link of Our Project:
 https://drive.google.com/file/d/1Ae1UVuFAe4oOy4xgUxIweLQPzsJn44tt/view
